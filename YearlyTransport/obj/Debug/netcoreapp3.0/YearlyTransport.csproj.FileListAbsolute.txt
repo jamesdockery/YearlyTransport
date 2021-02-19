@@ -1,0 +1,11 @@
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\bin\Debug\netcoreapp3.0\YearlyTransport.exe
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\bin\Debug\netcoreapp3.0\YearlyTransport.deps.json
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\bin\Debug\netcoreapp3.0\YearlyTransport.runtimeconfig.json
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\bin\Debug\netcoreapp3.0\YearlyTransport.runtimeconfig.dev.json
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\bin\Debug\netcoreapp3.0\YearlyTransport.dll
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\bin\Debug\netcoreapp3.0\YearlyTransport.pdb
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\obj\Debug\netcoreapp3.0\YearlyTransport.csprojAssemblyReference.cache
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\obj\Debug\netcoreapp3.0\YearlyTransport.AssemblyInfoInputs.cache
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\obj\Debug\netcoreapp3.0\YearlyTransport.AssemblyInfo.cs
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\obj\Debug\netcoreapp3.0\YearlyTransport.dll
+C:\Users\james\source\cSharpData_Algorithms\YearlyTransport\YearlyTransport\obj\Debug\netcoreapp3.0\YearlyTransport.pdb
